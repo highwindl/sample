@@ -1,0 +1,16 @@
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\bin\Debug\MP3_SAMPLE.exe.config
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\bin\Debug\MP3_SAMPLE.exe
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\bin\Debug\MP3_SAMPLE.pdb
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\bin\Debug\Interop.WMPLib.dll
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\bin\Debug\AxInterop.WMPLib.dll
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.csproj.AssemblyReference.cache
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.csproj.SuggestedBindingRedirects.cache
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\Interop.WMPLib.dll
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\AxInterop.WMPLib.dll
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.csproj.ResolveComReference.cache
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.frm_mp3player.resources
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.Properties.Resources.resources
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.csproj.GenerateResource.cache
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.csproj.CoreCompileInputs.cache
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.exe
+G:\My_data\My_Projects\C#\MP3_SAMPLE\MP3_SAMPLE\obj\Debug\MP3_SAMPLE.pdb
